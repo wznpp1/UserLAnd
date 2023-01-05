@@ -13,17 +13,17 @@ Features:
      height="80">](https://play.google.com/store/apps/details?id=tech.ula)
      
 ## Have a bug report or a feature request?
-You can see our templates by visiting our [issue center](https://github.com/CypherpunkArmory/UserLAnd/issues).
+You can see our templates by visiting our [issue center](https://github.com/wznpp1/UserLAnd/issues).
 
 ## Want to contribute?
-See our [CONTRIBUTING](https://github.com/CypherpunkArmory/UserLAnd/blob/master/CONTRIBUTING.md) document.
+See our [CONTRIBUTING](https://github.com/wznpp1/UserLAnd/blob/master/CONTRIBUTING.md) document.
 
 ## Start using UserLAnd
-See our [Getting Started](https://github.com/CypherpunkArmory/UserLAnd/wiki/Getting-Started-in-UserLAnd) page.
+See our [Getting Started](https://github.com/wznpp1/UserLAnd/wiki/Getting-Started-in-UserLAnd) page.
 
 ## UserLAnd assets
 The assets that UserLAnd depends on and the scripts that build them are contained in other repositories.  
 
-The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/CypherpunkArmory/UserLAnd-Assets-Support).  
+The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/wznpp1/UserLAnd-Assets-Support).  
 
-Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://github.com/CypherpunkArmory/UserLAnd-Assets-Debian)
+Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://github.com/wznpp1/UserLAnd-Assets-Debian)

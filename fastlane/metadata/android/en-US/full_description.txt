@@ -18,7 +18,7 @@ the set-up, you will then be connected to your Linux distribution or application
 VNC viewing Android application.
 
 Want to know more about getting started? View our wiki on Github:
-https://github.com/CypherpunkArmory/UserLAnd/wiki/Getting-Started-in-UserLAnd
+https://github.com/wznpp1/UserLAnd/wiki/Getting-Started-in-UserLAnd
 
 Want to ask questions, give feedback, or report any bugs you've encountered? Reach us on Github:
-https://github.com/CypherpunkArmory/UserLAnd/issues
+https://github.com/wznpp1/UserLAnd/issues
